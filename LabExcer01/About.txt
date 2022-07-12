@@ -1,1 +1,16 @@
 Add Inventory Lab Problem Solution
+i)Item Class containing 
+        public int Number { get; set; }
+        public string Date { get; set; }
+        public string Sku { get; set; }
+        public string Item_Name { get; set; }
+        public int Quantity { get; set; }
+        public double Price { get; set; }
+ii)Form class containing
+        addbutton and
+        cancelbutton events
+iii)FormDesign class containing
+        all the graphics drag and drops of
+        labels
+        textboxes and
+        buttons
