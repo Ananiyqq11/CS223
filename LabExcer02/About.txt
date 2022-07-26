@@ -1,3 +1,5 @@
+working on add inventory problem with the following additional features (Continuing from LabExcer01)
+
 i)is available boolean property
 ii) checkbox,checkboxlist,
 radiobutton,groupbox
@@ -5,5 +7,5 @@ iii)login form
  containing
   -username
   -password attributes
-  after conforming opens
+  after conforming username and password opens
   form1(inventory class)
