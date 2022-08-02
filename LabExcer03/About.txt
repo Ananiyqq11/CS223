@@ -1,1 +1,6 @@
-MDI - that would make forms to pop up with in a parent form
+continuing from (LabExcer02) the additional features are
+
+  - MDI - that would make forms to pop up with in a parent form
+  -loginpage form, inventory form and second_page form that pops up with in the parent form(main_page) 
+  -program starts from main_page [the previous version(LabExcer02) started from login page]
+  -menustrip GUI and Event handler 
