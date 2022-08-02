@@ -1,1 +1,1 @@
-
+MDI - that would make forms to pop up with in a parent form
