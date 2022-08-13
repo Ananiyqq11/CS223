@@ -1,0 +1,3 @@
+-creating panels to customize components with in the form
+-creating user controls to allow user defined components 
+-creating properties to access the defined user contol 
